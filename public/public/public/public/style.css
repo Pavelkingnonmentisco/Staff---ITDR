@@ -1,1 +1,43 @@
+body{
+background:#0b0f14;
+color:#00ffc3;
+font-family:monospace;
+text-align:center;
+}
 
+.login-box{
+margin-top:200px;
+}
+
+input{
+display:block;
+margin:10px auto;
+padding:10px;
+background:#111;
+border:1px solid #00ffc3;
+color:white;
+}
+
+button{
+background:#00ffc3;
+border:none;
+padding:10px 20px;
+cursor:pointer;
+}
+
+.card-container{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-top:50px;
+}
+
+.card{
+border:1px solid #00ffc3;
+padding:20px;
+width:200px;
+}
+
+.service{
+margin-top:60px;
+}
